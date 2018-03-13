@@ -31,7 +31,7 @@
       "balance": "1000000000000000000000000000"
     }
   },
-  "coinbase": "0x0000000000000000000000000000000000000000",
+  "coinbase": "0xed9d02e382b34818e88b88a309c7fe71e65f419d",
   "config": {
     "homesteadBlock": 0,
     "chainId": 1,
